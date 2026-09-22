@@ -19,7 +19,7 @@ configs:
 
 数据不是 JSON-only。仓库中既有结构化清单 JSONL，也有古籍全文 Markdown、PDF 原件和 Excel 分卷表。ModelScope 的 `configs` 指向 `metadata/books_manifest.jsonl`，用于数据预览和 SDK 加载；完整古籍文件在 `data/books/` 下按书目目录保存。
 
-如需了解更多中医药古籍数字化数据、定制语料整理、OCR 处理、知识库建设或批量授权合作，可联系 18996195218，或发送邮件至 zhouhaoran@shujuyoupu.com。
+如需了解更多中医药古籍数字化数据、定制语料整理、OCR 处理、知识库建设或批量授权合作，可发送邮件至 zhouhaoran@shujuyoupu.com。
 
 ## 数据集简介
 
@@ -138,7 +138,7 @@ print(ds[0]["markdown_path"])
 
 ## 合作与联系
 
-本数据集为中医药古籍数字化样本。若需要更多古籍全文、高清影像、结构化目录、方药知识抽取、私有化语料建设或模型训练数据合作，请联系 18996195218，或发送邮件至 zhouhaoran@shujuyoupu.com。
+本数据集为中医药古籍数字化样本。若需要更多古籍全文、高清影像、结构化目录、方药知识抽取、私有化语料建设或模型训练数据合作，请发送邮件至 zhouhaoran@shujuyoupu.com。
 
 ## 引用方式
 
